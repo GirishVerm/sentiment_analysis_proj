@@ -2,10 +2,15 @@
 
 This README file is written with AI, cause I like detailed READMEs but I am not gonna write them myself <3
 Datasets from
+
+
 Session 1 Dataset
+
 https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews?resource=download
 
+
 Session 2 Dataset
+
 https://www.kaggle.com/datasets/ebiswas/imdb-review-dataset/
 
 
